@@ -1,1 +1,1 @@
-From nvcr.io/nvidia/pytorch:24.06-py3-igpu
+FROM nvcr.io/nvidia/pytorch:24.06-py3-igpu
