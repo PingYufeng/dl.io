@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/pytorch:24.07-py3
+FROM pytorch/pytorch:2.6.0-cuda11.8-cudnn9-devel
