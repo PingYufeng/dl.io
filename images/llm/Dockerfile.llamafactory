@@ -1,1 +1,1 @@
-FROM hiyouga/llamafactory:latest
+FROM hiyouga/llamafactory:0.9.4
