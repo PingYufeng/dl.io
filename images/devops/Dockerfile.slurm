@@ -1,0 +1,1 @@
+FROM slurm-gpu:local
