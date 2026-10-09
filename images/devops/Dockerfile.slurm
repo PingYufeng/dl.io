@@ -1,1 +1,1 @@
-FROM slurm-gpu:local
+FROM giovtorres/slurm-docker-cluster:26.05.2-gpu
